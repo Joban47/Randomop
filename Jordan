@@ -1,0 +1,4 @@
+pip install telebot
+pip install pymongo aiohttp telebot
+Chmod +x *
+python3 soul.py
